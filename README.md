@@ -1,5 +1,7 @@
 # kun-kun-war
 This is a crazy game for true kun-kun lover!!!!!!
 
-首先仔细阅读需要上传的图片路径，建议用Pycharm打开。
+图片和音乐需要修改的内容在Picture中文件名，对应的代码名字。
+
+同时，你还需要在电脑上导入Pygame，否则也无法进行游戏
 
